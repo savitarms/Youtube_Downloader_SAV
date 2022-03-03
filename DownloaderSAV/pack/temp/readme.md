@@ -1,0 +1,1 @@
+Pasta para gerar arquivos para conversão e após a conversão serão apagados os arquivos. 
